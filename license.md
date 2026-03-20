@@ -6,4 +6,6 @@ GraceAC API & Companion License
 
     Reciprocity: If permission is granted to distribute a modified version, that version MUST be open-sourced under this same license (ShareAlike).
 
-    Closed Core: This license does not grant any rights to the main GraceAC engine, which remains proprietary and closed-source.
+    Closed Core: This license does not grant any rights to the main GraceAC engine, which remains proprietary and closed-source
+    
+    Source Available - Not Open Source. You may view and use this code, but modifications and redistributions require permission, as previously stated.
