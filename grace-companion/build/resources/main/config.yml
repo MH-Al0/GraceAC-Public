@@ -1,0 +1,3 @@
+bridge:
+  host: 127.0.0.1 # -> if running proxy on sep machine, use proxy ip
+  port: 27016 # make sure this port is open / not blocked by firewall

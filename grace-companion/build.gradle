@@ -1,0 +1,16 @@
+plugins {
+    id 'io.github.goooler.shadow'
+}
+
+dependencies {
+    implementation project(':grace-api')
+    compileOnly "io.papermc.paper:paper-api:${property('paperVersion')}"
+    implementation "com.google.code.gson:gson:${property('gsonVersion')}"
+}
+
+shadowJar {
+    archiveClassifier.set('')
+    mergeServiceFiles()
+}
+
+assemble.dependsOn shadowJar
