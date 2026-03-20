@@ -25,6 +25,9 @@ The proxy intercepts raw packets. The companion feeds server-confirmed truth : h
 - **Paper** 1.19+ (backend server)
 - **Java** 21+
 
+### Note:
+
+Please know that there also is a standalone paper plugin, that does not require the velocity plugin, but does have a companion paper plugin. Both of these plugins (the companion and the velocity plugin) will be available on websites such as modrinth.
 ---
 
 ## Installation
